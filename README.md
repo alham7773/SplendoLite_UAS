@@ -23,7 +23,6 @@
 * [x] Notifikasi Pengingat Tugas
 
 ### 4. Screenshot Aplikasi
-*(Cara upload: Tarik foto dari folder laptop kamu dan lepas di bawah teks ini satu per satu)*
 
 1. **Halaman Login**
 2. **Halaman home(menampilkan daftar tugas)**
@@ -34,10 +33,15 @@
 
 
 ![WhatsApp Image 2026-01-10 at 22 56 02](https://github.com/user-attachments/assets/1dd87a6b-a9c0-4c62-80a6-e6f5f4941daf)
+
 ![WhatsApp Image 2026-01-10 at 22 56 02 (1)](https://github.com/user-attachments/assets/4b1c9e3f-a9b2-400a-aebd-81b39a82c2d9)
+
 ![WhatsApp Image 2026-01-10 at 22 56 03](https://github.com/user-attachments/assets/d876217a-e37d-4170-9f68-a39b132dccb2)
+
 ![WhatsApp Image 2026-01-10 at 22 56 03 (1)](https://github.com/user-attachments/assets/f2a96a61-7cff-4415-9c21-f89b560b1b12)
+
 ![WhatsApp Image 2026-01-10 at 22 56 04](https://github.com/user-attachments/assets/0d291efb-b5d7-41b2-8573-6e1e69777c48)
+
 ![WhatsApp Image 2026-01-10 at 22 56 04 (1)](https://github.com/user-attachments/assets/42b806da-448d-47ce-922d-4010290fca99)
 
 
